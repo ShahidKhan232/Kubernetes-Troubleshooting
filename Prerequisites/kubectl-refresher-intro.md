@@ -53,3 +53,10 @@ Let's dive into each command to understand how they can help you troubleshoot an
 * **kubectl top node:** Monitor nodes to ensure they have adequate resources.
 * **kubectl diff:** Compare current and desired states to understand configuration changes.
 * **kubectl auth-can-i:** Check if your permissions allow a certain operation to avoid authorization issues.
+
+<Callout icon="lightbulb" color="#1CB2FE">
+  For more in-depth guidance on these commands, including examples and best practices, consider exploring the official [Kubernetes Basics](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/) guide.
+</Callout>
+
+With the commands outlined above, you're well-equipped to effectively troubleshoot and diagnose issues within your Kubernetes environment. Happy debugging!
+

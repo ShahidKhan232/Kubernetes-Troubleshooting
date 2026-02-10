@@ -198,3 +198,7 @@ In summary, this article covered:
 * Extracting specific information (like the number of replicas) using grep or JSONPath.
 * Retrieving container specifications directly from the deployment definition.
 
+<Callout icon="lightbulb" color="#1CB2FE">
+  For more detailed information and advanced use cases, make sure to visit the [official Kubernetes documentation](https://kubernetes.io/docs/).
+</Callout>
+
